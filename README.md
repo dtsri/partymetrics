@@ -2,7 +2,6 @@
 
 An end-to-end analytics project simulating a birthday/event-planning business — built to answer real operational and budgeting questions using SQL, Python, and Power BI.
 
-**Author:** Sri Harsha Emandi
 **Tools:** MS SQL Server (SSMS) · Python (Pandas, NumPy, Faker) · Power BI (DAX, Power Query)
 
 ---
