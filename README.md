@@ -28,7 +28,7 @@ A 4-table relational dataset (synthetic, generated with Python — see `generate
 
 > **Note:** This is a synthetic dataset built to practice realistic business analytics. The value of the project is in the schema design, the business-rule logic, the SQL/DAX analysis, and the insights extracted — not in claiming the data is real.
 
-## ❓ Business Questions Explored
+##  Business Questions Explored❓
 
 - Which vendor category is least reliable, and how does that compare to cost?
 - Do outdoor events with large guest counts overrun budgets more than others?
